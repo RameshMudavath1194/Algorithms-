@@ -1,10 +1,6 @@
 # 📐 Delaunay Triangulation — Advanced Algorithms Project
 
-**Author:** Arun Soma  
-**Course:** 5243 Advanced Algorithms  
-**Instructor:** Dr. [Instructor Name]  
-**Semester:** Spring 2025  
-**Project Date:** April 24, 2025  
+
 
 ---
 
