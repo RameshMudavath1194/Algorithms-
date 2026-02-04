@@ -4,10 +4,7 @@
 
 ---
 
-## 🔗 Project Repository
 
-You can find the full project, source files, explanations, and MCQs here:  
-🔗 [5243-Advanced-Algorithms > 06-P02: Delaunay Triangulation](https://github.com/asoma0710/5243-Advanced-Algorithms/tree/main/06-P02)
 
 ---
 
